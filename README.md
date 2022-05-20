@@ -12,3 +12,6 @@ Open the notebook file
 
 ## License
 Nguyen Hong Duc
+
+## Blog post
+https://medium.com/@nhduc1993/what-happened-to-seattle-airbnb-in-2016-424683e5d9d7
