@@ -20,8 +20,8 @@ Airbnb/data/listings.csv<br />
 Airbnb/data/reviews.csv<br />
 
 ## Acknowledgements
-- Data Source: https://www.kaggle.com/datasets/airbnb/seattle <br />
-- License: Nguyen Hong Duc <br />
+Data Source: https://www.kaggle.com/datasets/airbnb/seattle <br />
+License: Nguyen Hong Duc <br />
 
 ## Blog post
 https://medium.com/@nhduc1993/what-happened-to-seattle-airbnb-in-2016-424683e5d9d7
