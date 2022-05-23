@@ -8,9 +8,9 @@ First project for my Nanodegree course.
 
 ## Libraries used
 
-pandas == 1.4.2
-numpy == 1.22.4
-matplotlib == 2.2.4
+pandas == 1.4.2<br />
+numpy == 1.22.4<br />
+matplotlib == 2.2.4<br />
 
 ## Files in the repository
 
