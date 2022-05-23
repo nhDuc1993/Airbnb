@@ -2,16 +2,26 @@
 
 The project is a Python exercise for analyzing Airbnb listing state in Seattle.
 
-## Usage
+## Motivation
 
-Open the notebook file
+First project for my Nanodegree course.
 
-## Github
+## Libraries used
 
-(https://github.com/nhDuc1993/Airbnb)
+pandas == 1.4.2
+numpy == 1.22.4
+matplotlib == 2.2.4
 
-## License
-Nguyen Hong Duc
+## Files in the repository
+
+Airbnb/Exercise.ipynb
+Airbnb/data/calendar.csv
+Airbnb/data/listings.csv
+Airbnb/data/reviews.csv
+
+## Acknowledgements
+- Data Source: https://www.kaggle.com/datasets/airbnb/seattle
+- License: Nguyen Hong Duc
 
 ## Blog post
 https://medium.com/@nhduc1993/what-happened-to-seattle-airbnb-in-2016-424683e5d9d7
